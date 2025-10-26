@@ -205,6 +205,20 @@ padding: 15px;
     padding-top: 50px;
 }
 
+.skills-mobile {
+    display: block;
+}
+
+
+.skills-pod-container {
+    display: none;
+}
+
+
+.skills-padding {
+
+    padding-bottom: 20px !important;
+}
 
 .light-Orange-bg{
 
