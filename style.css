@@ -371,6 +371,18 @@ margin-bottom: 50px;
     
 }
 
+
+.skills-two-icon {
+
+
+}
+
+.skills-mobile {
+    display: none !important;
+}
+
+
+
 .light-Orange-bg{
 
     background-color: #FEEFC5;
