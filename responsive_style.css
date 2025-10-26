@@ -206,7 +206,7 @@ padding: 15px;
 }
 
 .skills-mobile {
-    display: block;
+    display: block !important;
 }
 
 
